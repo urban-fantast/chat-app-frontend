@@ -1,0 +1,11 @@
+.chatflow {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    max-height: 500px;
+    overflow: auto;
+}
+
+.userTyping {
+    padding: 3px;
+}
