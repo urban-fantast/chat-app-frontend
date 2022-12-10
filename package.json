@@ -37,6 +37,6 @@
   },
   "homepage": "https://urban-fantast.github.io/chat-app-front-end",
   "devDependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
